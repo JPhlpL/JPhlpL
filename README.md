@@ -1,4 +1,4 @@
-### Hi there my name is John Philip Lominoque 👋😄
+### Hi there my name is John 👋😄
 
 <!--
 **JPhlpL/JPhlpL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
