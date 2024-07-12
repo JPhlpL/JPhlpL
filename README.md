@@ -1,16 +1,35 @@
 ### Hi there my name is John 👋😄
 
-<!--
-**JPhlpL/JPhlpL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am almost 4 yrs developing system applications using web using Laravel Framework, PHP, Python and Java. JavaScript, CSS, HTML and Bootstrap for frontend. 
 
-Here are some ideas to get you started:
+Also, I work on some game development projects using Unity Engine C#. MySQL for the database management, data analysis and currently working or maintaining on some other relational database management system such as Microsoft SQL, MariaDB, SQlite and Microsoft PowerBi for data visualization. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For CI/CD tools we utilize such as Git for Version Control, Docker for Container, Jira, Azure DevOps, and Postman API for API Testing. 
+
+I am also knowledgeable for building a REST API and providing technical support for documentation such as Flow Chart, System Image, Entity Relationship Diagram. 
+
+I have also experienced in SDLC methodologies such as Agile. 
+
+ My goal is to deliver my skills with a quality, reliability and efficiency to my client/stakeholders.
+
+### :pencil: Learning
+
+I am currently interested in and learning:
+
+- AWS
+- Next.js
+- Node.js
+- React
+- FastAPI
+
+
+### 📫 How to reach me
+
+Do you want to conntact me? Thanks!
+You can get in touch via:
+
+- :e-mail: `johnphilipomamalin1206{at}gmail.com`
+- [GitHub](https://github.com/satoryu)
+- [Facebook](https://www.facebook.com/JPhlpL)
+- [LinkedIn](https://www.linkedin.com/in/jplominoque/)
+
