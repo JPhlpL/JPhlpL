@@ -28,7 +28,7 @@ I am currently interested in and learning:
 Do you want to conntact me? Thanks!
 You can get in touch via:
 
-- :e-mail: `johnphilipomamalin1206{at}gmail.com`
+- :e-mail: `johnphilipomamalin1206@gmail.com`
 - [GitHub](https://github.com/satoryu)
 - [Facebook](https://www.facebook.com/JPhlpL)
 - [LinkedIn](https://www.linkedin.com/in/jplominoque/)
