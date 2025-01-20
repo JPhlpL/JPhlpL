@@ -1,6 +1,6 @@
 ### Hi there my name is John 👋😄
 
-I am almost 5 yrs developing system applications using web using Laravel Framework, PHP, Python and Java. JavaScript, CSS, HTML and Bootstrap for frontend. 
+I am almost 5 yrs developing system applications using web using Laravel Framework, PHP, Python (FastAPI) and Java. JavaScript, CSS, HTML and Bootstrap for frontend. 
 
 Also, I work on some game development projects using Unity Engine C#. MySQL for the database management, data analysis and currently working or maintaining on some other relational database management system such as Microsoft SQL, MariaDB, SQlite and Microsoft PowerBi for data visualization. 
 
