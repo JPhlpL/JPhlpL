@@ -12,6 +12,27 @@ I have also experienced in SDLC methodologies such as Agile.
 
  My goal is to deliver my skills with a quality, reliability and efficiency to my client/stakeholders.
 
+### :pencil: Current Stack
+
+I am currently using these stacks right now:
+
+- Python
+- FastAPI
+- Next.js
+- React
+- Laravel
+- PHP
+- Javascript
+- PostgreSQL
+- MySQL
+- MariaDB
+- CI/CD
+- Git
+- AWS (S3, Lambda, RDS, Cognito, Amplify, and EC2)
+- Dockers & Containers
+- AI System Integrations
+- Linux & Bash Scripts
+
 ### :pencil: Learning
 
 I am currently interested in and learning:
