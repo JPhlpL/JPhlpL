@@ -12,7 +12,7 @@ I have also experienced in SDLC methodologies such as Agile.
 
  My goal is to deliver my skills with a quality, reliability and efficiency to my client/stakeholders.
 
-### :pencil: Current Stack
+### :bulb: Current Stack
 
 I am currently using these stacks right now:
 
@@ -43,6 +43,15 @@ I am currently interested in and learning:
 - React
 - FastAPI
 
+### :robot: Internet-of-Things
+
+I am currently working on some IoT projects where I use these:
+
+- Python
+- C++
+- Microcontrollers
+- Raspberry Pi
+- AWS Iotcore
 
 ### 📫 How to reach me
 
