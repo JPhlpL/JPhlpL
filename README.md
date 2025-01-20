@@ -1,4 +1,4 @@
-### Hi there my name is John 👋😄
+### Hi there my name is John Philip 👋😄
 
 I am almost 5 yrs developing system applications using web using Laravel Framework, PHP, Python (FastAPI) and Java. JavaScript, CSS, HTML and Bootstrap for frontend. 
 
