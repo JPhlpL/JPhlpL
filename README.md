@@ -1,6 +1,7 @@
 ## Other Accounts
 
 Curbpage: https://github.com/JohnPhilipCurbPage
+
 Abodey: https://github.com/backend-developer-abodey
 
 # Hi, I'm John Philip 👋
